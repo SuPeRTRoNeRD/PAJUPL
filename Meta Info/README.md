@@ -1,1 +1,1 @@
-# This Directory contains references to Overleaf Project with the documentation of PAJUPL
+# This directory contains the rules, foundations and goals using which PAJUPL is designed.
